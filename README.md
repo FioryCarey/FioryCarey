@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @FioryCarey
-- 👀 I’m interested in ...webdev and cybersec
-- 🌱 I’m currently learning ...webdev via theodinproject
-- 📫 Thanks for reading :>
+- Comp Sci Student working in Radio/Network IT
+
 
 <!---
 FioryCarey/FioryCarey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
